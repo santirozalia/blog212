@@ -5,7 +5,7 @@
 
     	var ars 	= rChoice([
 							'https://techgame.my.id',
-							'https://ayoktaaruf.my.id',
+							 
 							]);
 
 				function rChoice(arr) {
