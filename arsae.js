@@ -4,7 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://techgame.my.id',
+							'https://ayoktaaruf.my.id/',
 							 
 							]);
 
