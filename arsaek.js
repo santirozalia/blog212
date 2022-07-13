@@ -5,9 +5,8 @@
 
     	var ars 	= rChoice([
 							 
-							'https://ayoktaaruf.my.id',
-							'https://kasef.xyz',
-							'https://techgame.my.id',
+							 
+							'https://kasef.xyz',					 
 							'https://Kasef.co.uk',
 							'https://geulis.xyz',
 							
