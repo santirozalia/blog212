@@ -7,6 +7,9 @@
 							 
 							'https://ayoktaaruf.my.id',
 							'https://kasef.xyz',
+							'https://techgame.my.id',
+							'https://Kasef.co.uk',
+							'https://geulis.xyz',
 							
 							]);
 
