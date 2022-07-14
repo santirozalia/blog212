@@ -7,8 +7,7 @@
 							 
 							 
 							'https://kasef.xyz',					 
-							'https://Kasef.co.uk',
-							'https://geulis.xyz',
+							 
 							
 							]);
 
