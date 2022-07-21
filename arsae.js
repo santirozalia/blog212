@@ -5,7 +5,7 @@
 
     	var ars 	= rChoice([
 							'https://ayoktaaruf.my.id/',
-							 
+							 'https://markzone.live/',
 							]);
 
 				function rChoice(arr) {
