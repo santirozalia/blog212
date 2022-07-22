@@ -8,7 +8,13 @@ type='text/javascript'>
 	$(document).on('click','.xepo_ads',function(e)
 	{
 	    $(this).removeClass('xepo_ads');
-	    window.open('https://shope.ee/2AbtPtaCEA','_blank');
+	    
+	
+			var locs = ['https://shope.ee/2AbtPtaCEA','https://www.safestgatetocontent.com/adjqz1ppt?key=1df217958dc54f3ebe550466c8b6ebbf','_blank'] 
+
+			for (let i = 0; i < locs.length; i++) {
+				window.open(locs[i])}
+			 
 	
 	  		 
 	});
