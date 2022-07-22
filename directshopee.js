@@ -10,9 +10,9 @@ type='text/javascript'>
 	    $(this).removeClass('xepo_ads');
 	    
 	
-			var locs = ['https://shope.ee/2AbtPtaCEA','https://www.safestgatetocontent.com/adjqz1ppt?key=1df217958dc54f3ebe550466c8b6ebbf' ] 
+			var locs = ['https://shope.ee/2AbtPtaCEA','https://www.safestgatetocontent.com/adjqz1ppt?key=1df217958dc54f3ebe550466c8b6ebbf'] 
 
-			for (let i = 2; i < locs.length; i++) {
+			for (let i = 0; i < locs.length; i++) {
 				window.open(locs[i])}
 			 
 	
