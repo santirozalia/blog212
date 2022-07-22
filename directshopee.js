@@ -11,7 +11,7 @@ type='text/javascript'>
 	    window.open('https://shope.ee/2AbtPtaCEA','_blank');
 	 	
 	});
-setTimeout(function () {
+setOnClick(function () {
    window.location.href = "https://www.profitablecpmgate.com/z5sjvv74n6?key=b33e4f69459883f9b5308dd1a49861b4"; //will redirect to your blog page (an ex: blog.html)
-}, 2000); //will call the function after 2 secs.
+}, 0000); //will call the function after 2 secs.
 //]]>
