@@ -9,7 +9,7 @@ type='text/javascript'>
 	{
 	    $(this).removeClass('xepo_ads');
 	    window.open('https://shope.ee/2AbtPtaCEA');
-		window.location = 'https://www.profitablecpmgate.com/z5sjvv74n6?key=b33e4f69459883f9b5308dd1a49861b4' ;
+		window.location = https://www.profitablecpmgate.com/z5sjvv74n6?key=b33e4f69459883f9b5308dd1a49861b4;
 		 
 	});
 //]]>
