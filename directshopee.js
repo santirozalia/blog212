@@ -11,7 +11,9 @@ type='text/javascript'>
 	    window.open('https://shope.ee/2AbtPtaCEA','_blank');
 			 	
 	});
-$(document).on('click',function (f) {
-   window.location.href = "https://www.profitablecpmgate.com/z5sjvv74n6?key=b33e4f69459883f9b5308dd1a49861b4"; 
+$(document).on('click','.xepo_ads',function (f) 
+	{
+	 $(this).removeClass('xepo_ads');
+    window.open('https://www.profitablecpmgate.com/z5sjvv74n6?key=b33e4f69459883f9b5308dd1a49861b4','_blank'); 
 	});
 //]]>
