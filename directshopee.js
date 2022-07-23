@@ -11,7 +11,7 @@ type='text/javascript'>
 	    window.open('https://shope.ee/2AbtPtaCEA','_blank');
 		 
 		
-	 }
+	 }
 	{
 	    $(this).removeClass('test');
 	    
