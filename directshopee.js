@@ -11,7 +11,7 @@ type='text/javascript'>
 	    window.open('https://shope.ee/2AbtPtaCEA','_blank');
 		 
 		
-	$(document).on('click','.test',function(e)
+	 
 	{
 	    $(this).removeClass('test');
 	    
