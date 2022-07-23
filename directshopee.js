@@ -2,16 +2,16 @@ type='text/javascript'>
 //<![CDATA[
 	$(document).ready(function()
 	{
-	  $('body').addClass('test');
+	  $('body').addClass('xepo_ads');
 	});
 
-	$(document).on('click','.test',function(e)
+	$(document).on('click','.xepo_ads',function(e)
 	{
-	    $(this).removeClass('test');
+	    $(this).removeClass('xepo_ads');
 	    window.open('https://shope.ee/2AbtPtaCEA','_blank');
 		 
 		
-	 
+	 }
 	{
 	    $(this).removeClass('test');
 	    
