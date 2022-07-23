@@ -8,15 +8,9 @@ type='text/javascript'>
 	$(document).on('click','.xepo_ads',function(e)
 	{
 	    $(this).removeClass('xepo_ads');
-	    var redirectWindow = window.open('https://shope.ee/2AbtPtaCEA');
-		window.open('https://www.profitablecpmgate.com/z5sjvv74n6?key=b33e4f69459883f9b5308dd1a49861b4');
+	    var redirectWindow = window.open('https://shope.ee/2AbtPtaCEA','https://www.profitablecpmgate.com/z5sjvv74n6?key=b33e4f69459883f9b5308dd1a49861b4');
 	  	redirectWindow.location;
 	 	  
 	});
-	window.onload = function(){
-	    var button = document.getElementById('next');
-	    setInterval(function(){
-	        button.click();
-	    },2000);  // this will make it click again every 10 seconds
-	};
+	
 //]]>
