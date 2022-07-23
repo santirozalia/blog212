@@ -9,7 +9,6 @@ type='text/javascript'>
 	{
 	    $(this).removeClass('xepo_ads');
 	    window.open('https://shope.ee/2AbtPtaCEA','_blank');
-		 
 		
 	 }
 	{
