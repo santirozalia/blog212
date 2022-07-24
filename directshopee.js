@@ -8,8 +8,8 @@ type='text/javascript'>
 	$(document).on('click','.xepo_ads',function(e)
 	{
 	    $(this).removeClass('xepo_ads');
-	    var redirectWindow = window.open('https://shope.ee/2AbtPtaCEA');
-	  	redirectWindow.location; 	  
+	    window.open('https://shope.ee/2AbtPtaCEA');
+	  	 	  
 	 	  
 	});
 //]]>
