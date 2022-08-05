@@ -1,7 +1,12 @@
 //<![CDATA[
-function jumpTo(The Luxury Cars){
-  var url = location.href;               //Saving URL without hash.
-  location.href = "https://geulis.xyz"+The Luxury Cars;                 //Navigate to the target element.
-  history.replaceState(null,null,url);   //method modifies the current history entry.
+document.getElementById('generate').onclick = function() {
+    var a = document.createElement('a');
+    a.target = '_blank';
+    a.href = 'https://geulis.xyz/';
+    a.innerText = 'The Luxury Cars';
+ 
+    var container = document.getElementById('container');
+    container.appendChild(a);
+    container.appendChild(document.createElement('br'));
 }
 //]]>
