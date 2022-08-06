@@ -1,4 +1,4 @@
-<script type="text/javascript"> 
+ 
 //<![CDATA[
 
   var locationOrURL = "https://geulis.xyz/"; 
