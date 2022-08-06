@@ -1,12 +1,8 @@
+<script type="text/javascript"> 
 //<![CDATA[
-document.getElementById('generate').onclick = function() {
-    var a = document.createElement('a');
-    a.target = '_blank';
-    a.href = 'https://geulis.xyz/';
-    a.innerText = 'The Luxury Cars';
+
+  var locationOrURL = "https://geulis.xyz/"; 
+  var anchorName = locationOrURL.anchor("The Luxury Cars");  
+  alert(anchorName); 
  
-    var container = document.getElementById('container');
-    container.appendChild(a);
-    container.appendChild(document.createElement('br'));
-}
 //]]>
