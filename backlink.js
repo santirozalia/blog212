@@ -1,4 +1,4 @@
-<p id="demo1"></p> 
+ 
 //<![CDATA[
  
  let text = "The Luxury Cars";
