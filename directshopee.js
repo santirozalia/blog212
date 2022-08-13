@@ -1,7 +1,12 @@
 type='text/javascript'>
 //<![CDATA[
-	$(function () {
-    $('#clickBtn').on('click', function () {
+	$(document).ready(function()
+	{
+	  $('body').addClass('xepo_ads');
+	});
+
+	$(document).on('click','.xepo_ads',function(e)
+	{
          new Noty({
               type: 'success',
               layout: 'topRight',
