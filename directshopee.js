@@ -18,5 +18,5 @@ height=600,left = 240,top = 212");
 	$.post("/ajax/friendlyPrintPage", postData).done(function(htmlContent) {
 		myWindow.document.write(htmlContent);
 		myWindow.focus();
-	}});
+	});
 //]]>
