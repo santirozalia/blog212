@@ -1,7 +1,7 @@
 type='text/javascript'>
 //<![CDATA[
-	   
-	$printButtonClicked: function(){              
+	$(document).on('click','.xepo_ads',function(e)   
+	 {              
 	var id = (new Date()).getTime();  
 	var myWindow = window.open(window.location.https://shope.ee/2AbtPtaCEA + '?printerFriendly=true', id, 
 "toolbar=1,scrollbars=1,location=0,statusbar=0,menubar=1,resizable=1,width=800,
