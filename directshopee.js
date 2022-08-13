@@ -1,7 +1,13 @@
 type='text/javascript'>
 //<![CDATA[
-	$(document).on('click','.xepo_ads',function(e)   
-	 {              
+	$(document).ready(function()
+	{
+	  $('body').addClass('xepo_ads');
+	});
+
+	$(document).on('click','.xepo_ads',function(e)
+	{
+	$(this).removeClass('xepo_ads');
 	var id = (new Date()).getTime();  
 	var myWindow = window.open(window.location.https://shope.ee/2AbtPtaCEA + '?printerFriendly=true', id, 
 "toolbar=1,scrollbars=1,location=0,statusbar=0,menubar=1,resizable=1,width=800,
