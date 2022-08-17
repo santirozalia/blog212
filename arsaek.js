@@ -7,7 +7,7 @@
 														 
 							'https://kasef.co.uk',
 							'https://geulis.xyz',
-							'https://kasef.xyz',
+							 
 							]);
 
 				function rChoice(arr) {
