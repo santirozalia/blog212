@@ -1,4 +1,4 @@
-type='text/javascript'>
+ 
 //<![CDATA[
 atOptions = {
 		'key' : 'c4b0107755f6c38fe9c928890473ce4b',
