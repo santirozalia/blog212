@@ -8,7 +8,7 @@ type='text/javascript'>
 	$(document).on('click','.xepo_ads',function(e)
 	{
 	    $(this).removeClass('xepo_ads');
-	     var popUp = window.open('https://shope.ee/10Pw1kedan','_blank'); 
+	     var popUp = window.open('https://shope.ee/VTfQpgXbc','_blank'); 
 	     var popUp = window.open('https://www.profitablecpmgate.com/z5sjvv74n6?key=b33e4f69459883f9b5308dd1a49861b4','_blank'); 
 	 
 	  	if (popUp == null || typeof(popUp)=='undefined') {  
