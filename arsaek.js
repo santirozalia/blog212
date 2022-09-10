@@ -5,8 +5,8 @@
 
     	var ars 	= rChoice([
 														 
-							'https://geulis.xyz/',
-							 
+							'https://kasef.xyz/',
+							'https://geulis.xyz/', 
 							]);
 
 				function rChoice(arr) {
