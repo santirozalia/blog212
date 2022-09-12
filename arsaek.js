@@ -5,7 +5,7 @@
 
     	var ars 	= rChoice([
 														 
-							'https://markzone.live/',
+							'https://geulis.xyz/',
 							 
 							]);
 
