@@ -4,7 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://ayoktaaruf.my.id/',
+							'https://bloggzone.me/',
 						 	  
 							]);
 
