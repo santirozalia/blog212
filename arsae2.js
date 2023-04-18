@@ -6,6 +6,9 @@
     	var ars 	= rChoice([
 							
 							'https://bloggzone.me/',
+							'https://kasef.co.uk/',
+							'https://kasef.xyz/',
+							'https://geulis.xyz/',
 							 
 		
 							]);
