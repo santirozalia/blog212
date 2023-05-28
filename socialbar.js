@@ -1,1 +1,1 @@
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://pl17338893.profitablecpmgate.com/b5/1f/8f/b51f8f1ec2ce309a3f0c26ad6302b395.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') +'//pl19444806.highrevenuegate.com/17/4c/b4/174cb438c637c32f2ca0a3950d7cf3ce.js'></scr' + 'ipt>');
