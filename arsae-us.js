@@ -5,7 +5,7 @@
 
     	var ars 	= rChoice([
 							'https://hara.my.id/',
-							'https://bloggzone.me/',
+							 
 							]);
 
 				function rChoice(arr) {
