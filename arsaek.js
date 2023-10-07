@@ -4,8 +4,9 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([	
-		 					'https://jagoan.uk/', 
-							 
+		 					'https://kasef.co.uk/', 
+							'https://kasef.xyz/',
+							'https://geulis.xyz/',		
 							]);
 
 				function rChoice(arr) {
