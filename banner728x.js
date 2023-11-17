@@ -7,5 +7,6 @@
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/a21fb4cd6ab8157f6ec7d115e078a605/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.highcpmcreativeformat.com/a21fb4cd6ab8157f6ec7d115e078a605/invoke.js"></scr' + 'ipt>');
+ 
  
