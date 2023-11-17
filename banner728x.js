@@ -1,4 +1,5 @@
- //<![CDATA[
+ type='text/javascript'>
+//<![CDATA[
  
 	atOptions = {
 		'key' : 'a21fb4cd6ab8157f6ec7d115e078a605',
