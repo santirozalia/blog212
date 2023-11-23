@@ -8,7 +8,7 @@ window.addEventListener("popstate", function() {
 if(location.hash === "#!/history") {
 history.replaceState(null, document.title, location.pathname);
 setTimeout(function(){
-location.replace("https://www.profitablecpmgate.com/vdzv2eekd8?key=3c815dac3283cdaa7b2c3fe94777397c");
+location.replace("https://www.toprevenuegate.com/py0sddpe83?key=0e45ea863f0532af90c5a79e6dd5d152");
 },10);
 }
 }, false);
