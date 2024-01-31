@@ -1,7 +1,8 @@
  
 document.addEventListener('DOMContentLoaded', function () {
   const urlsToOpen = [
-    'https://gozaimasen.blogspot.com/',
+   'https://bokehindo21.blogspot.com/',
+  
  
   ];
 
