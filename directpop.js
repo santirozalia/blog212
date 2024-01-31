@@ -8,6 +8,6 @@ type='text/javascript'>
 	$(document).on('click','.xepo_ads',function(e)
 	{
 	    $(this).removeClass('xepo_ads');
-	    window.open('https://www.toprevenuegate.com/ms44f37fde?key=2b60154a6640e24a49db9d2d589c4bde','_blank');
+	    window.open('https://www.toprevenuegate.com/e91xy7b56?key=95d78ef4b8b99066f9049f86aef7097f','_blank');
 	});
 //]]>
