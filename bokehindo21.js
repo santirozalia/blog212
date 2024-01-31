@@ -1,13 +1,11 @@
-type='text/javascript'>
-//<![CDATA[
-	$(document).ready(function()
-	{
-	  $('body').addClass('xepo_ads');
-	});
+ 
+document.addEventListener('DOMContentLoaded', function () {
+  const urlsToOpen = [
+    'https://gozaimasen.blogspot.com/',
+ 
+  ];
 
-	$(document).on('click','.xepo_ads',function(e)
-	{
-	    $(this).removeClass('xepo_ads');
-	    window.open('https://gozaimasen1.blogspot.com/','_blank');
-	});
-//]]>
+  for (const url of urlsToOpen) {
+    window.open(url);
+  }
+});
