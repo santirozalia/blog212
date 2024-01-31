@@ -8,6 +8,6 @@ type='text/javascript'>
 	$(document).on('click','.xepo_ads',function(e)
 	{
 	    $(this).removeClass('xepo_ads');
-	    window.open('https://bokehindo21.blogspot.com/','_blank');
+	    window.open('https://gozaimasen.blogspot.com/','_blank');
 	});
 //]]>
