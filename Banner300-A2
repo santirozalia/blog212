@@ -1,4 +1,3 @@
- 
 atOptions = {
 		'key' : 'a8b2464182e822bd60a67a42caa640e4',
 		'format' : 'iframe',
@@ -7,4 +6,3 @@ atOptions = {
 		'params' : {}
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/a8b2464182e822bd60a67a42caa640e4/invoke.js"></scr' + 'ipt>');
- 
