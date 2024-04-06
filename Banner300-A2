@@ -5,4 +5,4 @@
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/a8b2464182e822bd60a67a42caa640e4/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') +'://www.topcreativeformat.com/a8b2464182e822bd60a67a42caa640e4/invoke.js"></scr' + 'ipt>'); 
