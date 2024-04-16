@@ -4,7 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://jagoan.uk/',
+							'https://yogioh.link/',
 							 
 							]);
 
